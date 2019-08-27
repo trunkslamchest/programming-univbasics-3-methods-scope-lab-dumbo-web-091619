@@ -17,10 +17,11 @@ def link
   puts saying
 end
 
-link
+
 
 def any_phrase(phrase)
   puts phrase
 end
 
+link
 any_phrase("Do A Barrel Roll!")
