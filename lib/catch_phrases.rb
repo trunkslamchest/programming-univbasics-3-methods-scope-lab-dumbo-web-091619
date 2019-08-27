@@ -17,7 +17,7 @@ def any_phrase(phrase)
   puts phrase
 end
 
-mario
-toadstool
-link
-any_phrase("Do A Barrel Roll!")
+# mario
+# toadstool
+# link
+# any_phrase("Do A Barrel Roll!")
