@@ -14,6 +14,8 @@ def link
   puts saying
 end
 
+link
+
 def any_phrase(phrase)
   
 end
